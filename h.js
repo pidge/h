@@ -70,3 +70,6 @@ function coerceValue(value, name) {
         return (_.isBoolean(value) && value) ? name : null;
     }
 }
+
+// 2011 by i@pjmartel.com
+// public domain
