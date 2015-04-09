@@ -1,3 +1,5 @@
+**Edit: so, clearly, now you might as well just use [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html)**
+
 HTML is awesome because it's declarative. Unfortunately, the DOM API is mostly imperative.
 
 Templating languages are pretty cool because you get to use a declarative language to make some DOM elements. But they either don't give you the full expressiveness of a decent functional language, or they do and it's a bunch of arbitrary stuff stuck in some ugly tags - which I am still way too lazy to learn, when I already have a decent functional language (JavaScript).
